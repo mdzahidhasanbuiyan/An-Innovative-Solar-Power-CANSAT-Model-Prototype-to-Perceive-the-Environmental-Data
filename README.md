@@ -22,3 +22,5 @@ Various environmental and positional parameters, including **acceleration, rotat
 - Pressure
 - Solar Power
 - Environmental Monitoring
+## 📚 DOI
+🔗 https://doi.org/10.1007/978-981-19-5845-8_62
